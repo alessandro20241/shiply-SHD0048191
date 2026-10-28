@@ -1,0 +1,43 @@
+{
+  "SHD0494719": {
+    "status": "Warten auf Zahlung",
+    "statusClass": "pending",
+    "sender": "Victor Dieter, Lessingstraße 11, 18209 Bad Doberan, Deutschland",
+    "receiver": "Andre Eric, 24a Bd Georges Clemenceau, 13700 Marignane, Frankreich",
+    "price": "10.900 €",
+    "description": "Hersteller: Harley-Davidson <br>Typ: Street Glide CVO 117 FLHXSE <br> Fahrgestelnummer: 5HD1KRP48LB600311 <br> Erstzulassung: 09/2020 <br> TÜV: 09/2028 <br> KM laut Vorbesitzer: 9.223 km <br> Leistung: 106 PS (78 kW) <br> Hubraum: 1.923 cm³ <br> Viele Extras. <br> Alle Originalteile vorhanden. <br> Fahrzeug ist makellos. <br> Das Motorrad ist voll funktionsfähig, kein Umfaller oder Unfall. <br> Bezitser 2 <br> Deutsch Zulassung. Alle Papiere und Schlüssel sind im Lieferumfang enthalten.",
+    "address": "Andre Eric<br> 24a Bd Georges Clemenceau<br> 13700 Marignane<br>Frankreich<br>Telefon: +33 627592461",
+    "documents": [
+      {
+        "name": "Lieferschein",
+        "url": "docs/Lieferschein.pdf"
+      },
+      {
+        "name": "Kaufvertrag",
+        "url": "docs/Kaufvertrag.pdf"
+      },
+      {
+        "name": "Rechnung",
+        "url": "docs/Rechnung.pdf"
+      },
+      {
+        "name": "AGB",
+        "url": "docs/AGB.pdf"
+      }
+    ],
+    "orderDate": "27-10-2026",
+    "deliveryDate": "09-11-2026",
+    "pickup": {
+      "street": "Lindenstraat 33",
+      "postal_code": "18209",
+      "city": "Bad Doberan",
+      "country": "Deutschland"
+    },
+    "delivery": {
+      "street": "24a Bd Georges Clemenceau",
+      "postal_code": "13700",
+      "city": "Marignane",
+      "country": "Frankreich"
+    }
+  }
+}
